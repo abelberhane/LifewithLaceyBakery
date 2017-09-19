@@ -7,3 +7,9 @@ of the mockup has been designed and you can find it below.
 While I begin working with HTML/CSS/JS more I will change the site design over time. I am starting with a version of another site that I 
 have worked with and can not wait to keep adding more unique html elements and functions to this site.
 
+MOCKUP of Website. The below images are a mockup of what I will be aiming to achieve. 
+![alt text](https://github.com/abelberhane/LifewithLaceyBakery/blob/master/Images/Mockup/1.png?raw=true)
+![alt text](https://github.com/abelberhane/LifewithLaceyBakery/blob/master/Images/Mockup/2.png?raw=true)
+![alt text](https://github.com/abelberhane/LifewithLaceyBakery/blob/master/Images/Mockup/3.png?raw=true)
+![alt text](https://github.com/abelberhane/LifewithLaceyBakery/blob/master/Images/Mockup/4.png?raw=true)
+![alt text](https://github.com/abelberhane/LifewithLaceyBakery/blob/master/Images/Mockup/5.png?raw=true)
