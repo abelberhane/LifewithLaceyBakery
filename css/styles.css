@@ -9,7 +9,7 @@ html {
 
 body {
 	margin: 0;
-	background-color: hsl(0, 0%, 95%);
+	background-color: pink;
 }
 
 article,
@@ -500,6 +500,7 @@ Front page styles
     background: pink;
 }
 
+
 .featured-image {
 	margin: 2em auto;
 	width: 70%;
@@ -660,4 +661,28 @@ CTA
 .cta a:hover {
     background: #FFFCED;
     color: #ff1493;
+}
+
+
+/* Global layouts */
+@media screen and (min-width: 700px) {
+    .two-column {
+        column-count: 2;
+        column-gap: 2.4em;
+    }
+}
+
+/*--------------------------------------------------------------
+Typography
+--------------------------------------------------------------*/
+
+body,
+button,
+input,
+select,
+textarea {
+	font-family: 'Source Sans Pro', 'Helvetica', Arial, sans-serif;
+	font-size: 18px;
+	line-height: 1.5;
+    color: white
 }
