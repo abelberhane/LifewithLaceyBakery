@@ -692,3 +692,53 @@ textarea {
 	line-height: 1.5;
     color: white
 }
+
+
+
+/*--------------------------------------------------------------
+Three Reasons
+--------------------------------------------------------------*/
+
+.three-reasons {
+    margin: 2em 0;
+    padding: 0;
+    
+}
+
+.reason {
+    margin-bottom: 1em;
+    padding-bottom: 2em;
+	flex: 1;
+}
+
+.reason figcaption {
+    padding: 0 3em;
+}
+
+@media screen and (min-width: 50em) {
+    .three-reasons {
+        -js-display: flex;
+        display: flex;
+        margin: 1em auto 0;
+    }
+
+    .reason figcaption {
+        padding: 0 1.5em;
+    }
+}
+
+@media screen and (min-width: 70em) {
+    .three-reasons {
+        padding: 2em 0 0;
+    }
+
+}
+
+.content-title {
+    margin-bottom: 0;
+    font-size: 1.4em;
+}
+
+.reason p {
+    margin: .5em 0 1.8em;
+}
