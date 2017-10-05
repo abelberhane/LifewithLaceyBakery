@@ -683,6 +683,26 @@ CTA
     }
 }
 
+/* Global buttons */
+.content-button {
+	padding: .5em 1em;
+	border: 3px solid #white;
+	/*border-radius: 10px;*/
+	font-weight: 600;
+    background: #ff1493;
+}
+
+a.content-button {
+	color: white;
+	text-decoration: none;
+}
+
+a.content-button:focus,
+a.content-button:hover {
+	background: #FFFCED;
+	color: #ff1493;
+}
+
 /*--------------------------------------------------------------
 Typography
 --------------------------------------------------------------*/
