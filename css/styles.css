@@ -541,6 +541,7 @@ Contact with Cupcake styles
 	width:100%;
 	margin:0 auto;
 	position:relative;
+    
 }
 
 .formtext {
@@ -548,23 +549,20 @@ Contact with Cupcake styles
 
 }
 
-.idea {
-    display: inline;
-}
-
-
 #contact input[type="text"], #contact input[type="email"], #contact textarea, #contact button[type="submit"] { font:400 12px/16px "Open Sans", Helvetica, Arial, sans-serif; }
 
 #contact {
 	background:#F9F9F9;
 	padding:25px;
 	margin:50px 0;
-    float:left;
-    display: inline;
+    display: block;
 }
 
 .hm {
     float: right;
+    margin: 10px;
+    margin-left:100px;
+    
 }
 
 #contact h3 {
