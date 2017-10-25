@@ -569,6 +569,15 @@ Contact with Cupcake styles
     
 }
 
+.ad {
+   float:right;
+    margin: 10px;
+    margin-top: 50px;
+    max-width:140px;
+    
+   
+}
+
 #contact h3 {
 	color: hotpink;
 	display: block;
